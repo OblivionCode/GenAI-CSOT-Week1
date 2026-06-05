@@ -31,3 +31,7 @@ When the number of messages exceeds the limit, older messages are removed using 
 - Streaming output
 - Better summarization
 - GUI version
+
+## Note
+
+The final chatbot submission has been implemented directly within the second build itself. Instead of creating a completely separate final build file, the existing implementation was extended and polished to satisfy all the project requirements.
